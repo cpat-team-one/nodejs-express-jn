@@ -46,7 +46,7 @@ metadata:
     image.opencontainers.org/title: nodejs-express-jn
     stack.appsody.dev/version: 0.2.8
   name: nodejs-express-jn
-  
+  namespace: dev-jn
 spec:
   applicationImage: dev.local/nodejs-express-jn
   createKnativeService: false
